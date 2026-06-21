@@ -2,7 +2,6 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
-remote_theme: cotes2020/jekyll-theme-chirpy
 
 
 
