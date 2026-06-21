@@ -33,7 +33,7 @@ github:
   username: UntitledOutput # change to your GitHub username
 
 twitter:
-  username: "" # change to your Twitter username
+  username: "https://untitledoutput.github.io" # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -155,7 +155,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/blog"
 
 # ------------ The following options are not recommended to be modified ------------------
 
